@@ -1,6 +1,7 @@
 <!DOCTYPE html>
   <html>
     <head>
+      
         <meta charset="utf-8">
         <title>Sistema de Cadastro para Clientes</title>
       <!--Import Google Icon Font-->
@@ -13,4 +14,4 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     </head>
 
-    <body>
+</html>
